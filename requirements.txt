@@ -1,0 +1,5 @@
+streamlit
+pandas
+networkx==3.1  # Fixar a versão pode evitar problemas de compatibilidade
+pyvis
+matplotlib
